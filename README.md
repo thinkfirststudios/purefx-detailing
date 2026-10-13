@@ -23,10 +23,11 @@ Built 2026-10-12 from `PROMPT.md`. Plain static HTML/CSS/JS, no build step. Open
 
 ## Design: THE SERVICE MATRIX
 
-- **Palette:** paper `#FBFBF9` and ink `#101214`, with hairlines `#E2E2DD` / `#C9C9C2` and graphite `#6E7278`. **No accent hue anywhere.** A check finds no saturated colour in any file. Contrast comes from weight, scale and whitespace.
+- **Palette:** paper `#FBFBF9` and ink `#101214`, with hairlines `#E2E2DD` / `#C9C9C2` and graphite `#6E7278`.
+- **Accent (v2, Alex's call on 2026-10-13, overriding the brief's "no accent hue"):** electric violet `#5B34F0` (6.1:1 on paper), with a 7% wash. It is used on CTAs, active nav, eyebrows, the second half of the H1, the recommended matrix column and tier card, chips and focus. It collides with no other detailing lead.
 - **One dark surface:** the quote form, which replaces the Instagram DM thread.
 - **Type:** Funnel Display (display, never set over an image), Host Grotesk (body), Geist Mono (labels and figures, tabular, load-bearing in the matrix).
-- **Photos:** each sits inside a 1px frame. None is full-bleed and none sits behind type.
+- **Photos:** each sits inside a 1px frame. None is full-bleed and none sits behind type. The hero is a whole white car, front three-quarter (Pexels 10029878). It replaced the door-handle close-up in v2. Its fender emblem, wheel-cap mark and tyre lettering are removed, and it has no LUT or heavy grade.
 - **Not used:** gradient bands, gloss, specular highlights, reflections, wet edges or Glaze's occlusion device.
 - **Motion:**
   - Hairlines rule in from left to right.
