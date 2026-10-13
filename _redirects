@@ -1,0 +1,16 @@
+# Netlify / Cloudflare Pages. FIRST WEBSITE — there are no old URLs to preserve.
+# [DOMAIN — NOT REGISTERED (L1). CHECK AVAILABILITY TODAY — "purefx" IS SHORT AND MAY BE GONE]
+
+/services          /services.html          200
+/packages          /packages.html          200
+/service-areas     /service-areas.html     200
+/reviews           /reviews.html           200
+/about             /about.html             200
+/contact           /contact.html           200
+/faq               /faq.html               200
+/:service          /:service.html          200
+
+# Location pages: /mobile-detailing-<area>/  (Dallas and Canton carry -ga so neither reads as Texas or Ohio)
+# Built: marietta, alpharetta, kennesaw + the atlanta-metro hub. The other seventeen are a phased content job,
+# NOT templated stubs. The hub is kept distinct from a future /mobile-detailing-atlanta/ city page.
+/mobile-detailing-:area/    /mobile-detailing-:area.html    200
